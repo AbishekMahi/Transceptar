@@ -543,7 +543,8 @@ body {
 		margin: 80px 20px 60px 20px;
 	}
 	.clinic-colum {
-		height: 600px;
+		height: 350px;
+		width: 100%;
 	}
 	.home-3-about-bottom-section .main-img img{
 		width: 90%;
